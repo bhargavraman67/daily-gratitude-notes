@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Codex-generated bg for DailyGratitudeNotes"
+    },
+    {
+      "name": "button_rect",
+      "type": "button",
+      "prompt": "Codex-generated button for DailyGratitudeNotes"
+    },
+    {
+      "name": "button_round",
+      "type": "button",
+      "prompt": "Codex-generated button for DailyGratitudeNotes"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Codex-generated icon for DailyGratitudeNotes"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for DailyGratitudeNotes (copy of sprite_1)"
+    }
+  ]
+}
